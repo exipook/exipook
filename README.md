@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @exipook
 - 👀 I’m interested in graphic design and web development 
-- 🌱 I’m currently learning react js
+- 🌱 I’m currently learning react js library & Laravel framework 
 - 💞️ I’m looking to collaborate on Google company 
 - 📫 How to reach me : from my email sbaai367@gmail.com
 
